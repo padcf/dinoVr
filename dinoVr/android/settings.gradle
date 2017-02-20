@@ -1,0 +1,3 @@
+rootProject.name = 'dinoVr'
+
+include ':app'
