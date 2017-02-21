@@ -17,7 +17,7 @@ export default class dinoVr extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Welcome to React Native!
+          THIS IS A TESTS
         </Text>
         <Text style={styles.instructions}>
           To get started, edit index.android.js
